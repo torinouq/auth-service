@@ -1,0 +1,18 @@
+{
+    "name": "torinouq/auth-service",
+    "description": "layanan otentikasi pengguna",
+    "require": {
+        "laravel/framework": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Torinouq\\AuthService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "torinouq",
+            "email": "jhonitorino@gmail.com"
+        }
+    ]
+}
